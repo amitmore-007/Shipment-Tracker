@@ -15,8 +15,8 @@ A modern, responsive React-based frontend for the Cargo Shipment Tracker applica
 
 | Dashboard | Shipment Map | Create Shipment |
 |----------|---------------|------------------|
-| ![Dashboard Screenshot](./public/dashboard.png) | ![Map Screenshot](./public/map.png) | ![Create Shipment Screenshot](./public/create-shipment.png) 
-| ![Shipment Details Screenshot](./public/shipment-details.png) |
+| ![Dashboard Screenshot](./public/dashboard.png) | ![Map Screenshot](./public/map.png) 
+| ![Create Shipment Screenshot](./public/create-shipment.png) | ![Shipment Details Screenshot](./public/shipment-details.png) |
 
 ---
 
