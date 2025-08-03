@@ -2,6 +2,24 @@
 
 A modern, responsive React-based frontend for the Cargo Shipment Tracker application featuring real-time tracking, interactive maps, and comprehensive shipment management capabilities.
 
+## 🌐 Live Demo & Repositories
+
+- 🚀 **Deployed App**: [https://shipment-tracker-1b7s.onrender.com/](https://shipment-tracker-1b7s.onrender.com/)  
+- 🧠 **Backend Repository**: [https://github.com/amitmore-007/Shipment-Tracker-backend](https://github.com/amitmore-007/Shipment-Tracker-backend)
+
+---
+
+## 🖼️ Frontend Screenshots
+
+> Add screenshots in this section by uploading images to the `public/` folder or using direct links from your repository or an image hosting platform.
+
+| Dashboard | Shipment Map | Create Shipment |
+|----------|---------------|------------------|
+| ![Dashboard Screenshot](./public/dashboard.png) | ![Map Screenshot](./public/map.png) | ![Create Shipment Screenshot](./public/create-shipment.png) | ![Shipment Details Screenshot](./public/shipment-details.png) |
+
+---
+
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -13,9 +31,11 @@ A modern, responsive React-based frontend for the Cargo Shipment Tracker applica
 - **📈 ETA Predictions**: Estimated time of arrival calculations
 
 ### Advanced Features
-- **🌐 Multi-language Support**: Internationalization with i18next
-- **🎨 Modern UI**: Styled with Tailwind CSS and Styled Components
-- **🔔 Toast Notifications**: User feedback with React Hot Toast
+- **🌐 Multi-language Support**: Internationalization with i18next  
+- **🎨 Modern UI**: Styled with Tailwind CSS and Styled Components  
+- **🗺️ Multiple Map Types**: Support for Dark, Satellite, Terrain, and Street views  
+- **🔔 Toast Notifications**: User feedback with React Hot Toast  
+
 
 ## 🛠 Tech Stack
 
@@ -340,23 +360,24 @@ This project is licensed under the MIT License.
 
 ```
 
-## 🔮 Future Enhancements & Roadmap
+🔮 Future Enhancements & Roadmap
 
-### Immediate (Next 3 months)
-- **🔐 Authentication System**: JWT-based user authentication
-- **📱 Mobile App**: React Native companion app
-- **🌐 Internationalization**: Multi-language support
-- **📊 Advanced Analytics**: Detailed performance metrics
+📅 Immediate (Next 3 Months)
+- 🔐 Authentication System: JWT-based user authentication  
+- 📱 Mobile App: React Native companion app  
+- 🌐 Internationalization: Multi-language support  
+- 📊 Advanced Analytics: Detailed performance metrics  
 
-### Short-term (3-6 months)
-- **🤖 AI/ML Integration**: Predictive analytics for delays
-- **📡 IoT Integration**: Direct sensor data integration
-- **🔔 Advanced Notifications**: Email, SMS, push notifications
-- **📈 Business Intelligence**: Custom reporting dashboards
+⏳ Short-term (3–6 Months)
+- 🤖 AI/ML Integration: Predictive analytics for shipment delays  
+- 📡 IoT Integration: Real-time sensor data integration  
+- 🔔 Advanced Notifications: Email, SMS, and push notification system  
+- 📈 Business Intelligence: Custom reporting dashboards for business insights  
 
-### Long-term (6-12 months)
-- **🌍 Multi-tenant Support**: Support for multiple shipping companies
-- **⚡ Micro-frontend Architecture**: Scalable component federation
-- **🔗 Blockchain Integration**: Immutable shipment records
-- **🎯 AR/VR Features**: Augmented reality warehouse navigation
+🧭 Long-term (6–12 Months)
+- 🌍 Multi-tenant Support: Enable multiple shipping companies on a single platform  
+- ⚡ Micro-frontend Architecture: Modular and scalable frontend architecture  
+- 🔗 Blockchain Integration: Immutable shipment tracking and verification  
+
+
 
