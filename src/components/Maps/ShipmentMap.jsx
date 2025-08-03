@@ -65,7 +65,7 @@ const mapLayers = {
 
 const ShipmentMap = ({ shipment, height = 400 }) => {
   const mapRef = useRef();
-  const [currentMapType, setCurrentMapType] = useState('dark');
+  const [currentMapType, setCurrentMapType] = useState('street');
   const [showMapSelector, setShowMapSelector] = useState(false);
 
   if (!shipment) return null;
